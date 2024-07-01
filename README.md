@@ -1,6 +1,6 @@
 # Beyond *Bare* Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph
 
-Stay tuned! The code will be released sometime between June and July 2024.
+Stay tuned! The code will be released in early August 2024.
 
 ## Citations
 ```bibtex
